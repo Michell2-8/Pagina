@@ -213,6 +213,11 @@ h6 {
   color: #666;
 }
 
+.whatsapp-icon i{
+    font-size: 30px !important;
+  color: #25D366;
+}
+
 .portfolio-content img {
   border-radius: 20px;
 }
